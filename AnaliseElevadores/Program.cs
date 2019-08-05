@@ -48,6 +48,7 @@ namespace AnaliseElevadores
                 Console.WriteLine("Percentual de Uso do Elevador C: {0}", percentualDeUsoElevadorC);
                 Console.WriteLine("Percentual de Uso do Elevador D: {0}", percentualDeUsoElevadorD);
                 Console.WriteLine("Percentual de Uso do Elevador E: {0}", percentualDeUsoElevadorE);
+                Console.ReadLine();
             }
         }
     }
